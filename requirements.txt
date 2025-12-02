@@ -1,0 +1,8 @@
+torch>=2.0.0
+pandas
+transformers
+bert-score
+nltk
+datasets
+accelerate
+scikit-learn
